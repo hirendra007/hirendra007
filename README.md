@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Student dedicated to self-improvement, driven by daily growth and learning.<br><br>📚 I'm diving deep into the world of front-end development, honing my skills in HTML, CSS, and JavaScript...<br><br>🎯 Exploring Web, App and Game development<br><br>🎲 Building dreams with lines of code.</p>
+<p align="left">✨ Student dedicated to self-improvement, driven by daily growth and learning.<br><br>📚 I'm diving deep into the world of front-end development, honing my skills in HTML, CSS, and JavaScript...<br><br>🎯 Exploring Web, App development and Machine Learning<br><br>🎲 Building dreams with lines of code.</p>
 
 ###
 
